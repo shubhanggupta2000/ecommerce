@@ -1,9 +1,9 @@
 # Shoppify - ECommerce Platform
 
-* Buy your favourite headphones, speakers and other sound gadgets with the Shoppify app.
-* Add them to cart and purchase with Stripe payment gateway and enjoy them.
+* Shop your favourite headphones, speakers and other sound gadgets with the Shoppify app.
+* Add them to cart and purchase with Stripe payment gateway.
 * ECommerce project with Sanity as backend and Stripe payment integrations.
-* Also includes features like track recommedations, add-to-cart and payment success page with confetti effects.
+* Includes features like track recommedations, add-to-cart and payment success page with confetti effects.
 * If you love this ☺️ project, don't forget a star 🌟
 
 ## Glimpse
@@ -17,4 +17,4 @@
 ![7](https://user-images.githubusercontent.com/79959361/198186475-0d64940f-9b33-4421-be5b-8747a97f019e.png)
 
 ## Experience the app here 
-[click me!](https://fazevennom-shoppify.vercel.app/)
+[Click Me!](https://fazevennom-shoppify.vercel.app/)
